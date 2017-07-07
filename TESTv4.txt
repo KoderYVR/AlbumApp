@@ -1,3 +1,4 @@
 Hello world!
 Goodbye world!
 Why?
+New file starts.
